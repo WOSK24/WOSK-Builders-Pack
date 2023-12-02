@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "bottom=true,distance=0": { "model": "block/scaffolding_unstable" },
+        "bottom=true,distance=1": { "model": "block/scaffolding_unstable_distance_1" },
+        "bottom=true,distance=2": { "model": "block/scaffolding_unstable_distance_2" },
+        "bottom=true,distance=3": { "model": "block/scaffolding_unstable_distance_3" },
+        "bottom=true,distance=4": { "model": "block/scaffolding_unstable_distance_4" },
+        "bottom=true,distance=5": { "model": "block/scaffolding_unstable_distance_5" },
+        "bottom=true,distance=6": { "model": "block/scaffolding_unstable_distance_6" },
+        "bottom=true,distance=7": { "model": "block/scaffolding_unstable_distance_7"
+    },
+        "bottom=false,distance=0": { "model": "block/scaffolding_stable" },
+        "bottom=false,distance=1": { "model": "block/scaffolding_stable_distance_1" },
+        "bottom=false,distance=2": { "model": "block/scaffolding_stable_distance_2" },
+        "bottom=false,distance=3": { "model": "block/scaffolding_stable_distance_3" },
+        "bottom=false,distance=4": { "model": "block/scaffolding_stable_distance_4" },
+        "bottom=false,distance=5": { "model": "block/scaffolding_stable_distance_5" },
+        "bottom=false,distance=6": { "model": "block/scaffolding_stable_distance_6" },
+        "bottom=false,distance=7": { "model": "block/scaffolding_stable_distance_7" }
+    }
+}

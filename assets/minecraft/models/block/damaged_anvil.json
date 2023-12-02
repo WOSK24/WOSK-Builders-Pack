@@ -1,0 +1,8 @@
+{
+    "parent": "block/anvil",
+    "textures": {
+        "particle": "block/polished_deepslate",
+        "body": "block/polished_deepslate",
+        "top": "block/polished_deepslate"
+    }
+}
