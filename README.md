@@ -14,7 +14,7 @@ Follow these steps to install the WOSK Builders Pack texture pack:
 
 ## Join Our Discord:
 
-Get the latest news and join our community: https://discord.gg/hf946YbNZx
+Join our community and get the latest news: https://discord.gg/hf946YbNZx
 
 ## Credits
 
