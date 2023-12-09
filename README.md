@@ -7,6 +7,7 @@ The WOSK Builders Pack is a custom Minecraft texture pack designed to enhance th
 
 Follow these steps to install the WOSK Builders Pack texture pack:
 
+   - Download the latest release of the pack
    - Launch Minecraft and navigate to "Options" > "Resource Packs."
    - Click on "Open Resource Pack Folder."
    - Move the downloaded .zip file into the resource packs folder.
