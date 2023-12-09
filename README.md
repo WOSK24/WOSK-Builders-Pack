@@ -19,7 +19,8 @@ Join our community and get the latest news: https://discord.gg/hf946YbNZx
 
 ## Credits
 
-This is not an original texturepack WOSK Builders Pack is based off the original Flows HD/ WOK Flows and Cubed pack. This texturepack is meant only for the use of WOSK's City server downloads for these texturepacks can be found below:
+This is not an original texturepack WOSK Builders Pack is based off the original Flows HD/ WOK Flows and Cubed pack. This texturepack is meant only for the use of WOSK's City server.
+Downloads for these texturepacks can be found below:
 
 [WOK Flows](https://github.com/WorldOfKeralis/WoKFlows/releases)
 
